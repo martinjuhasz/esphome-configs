@@ -23,7 +23,7 @@ Since the Shelly i3 has floating inputs there needs to be a delayed_on_off prese
 ```yaml
 # Basic Config
 substitutions:
-  devicename: shelly_25
+  devicename: shelly_i3
 
 esphome:
   name: ${devicename}
